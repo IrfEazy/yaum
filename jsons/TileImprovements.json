@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ziggurat",
+    "science": 1,
+    "shortcutKey": "Z",
+    "techRequired": "Agriculture",
+    "terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Flood plains", "Tundra"],
+    "turnsToBuild": 6,
+    "uniques": [
+      "[+1 Culture] <in [Fresh Water] tiles>",
+      "Pillaging this improvement yields approximately [+10 Gold]"
+    ],
+    "uniqueTo": "Sumer"
+  }
+]

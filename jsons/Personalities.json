@@ -1,0 +1,138 @@
+[
+  {
+    "aggressive": 6,
+    "civilopediaText": [
+      {
+        "text": "Gilgamesh, the semi-mythic King of Uruk, is best known for the Epic of Gilgamesh. A powerful warrior and builder, he sought immortality but found it only in the legacy of his city and deeds."
+      }
+    ],
+    "commerce": 6,
+    "culture": 7,
+    "declareWar": 5,
+    "diplomacy": 8,
+    "expansion": 7,
+    "faith": 5,
+    "food": 6,
+    "gold": 5,
+    "happiness": 6,
+    "loyal": 9,
+    "military": 8,
+    "name": "Gilgamesh",
+    "priorities": {
+      "Autocracy": 5,
+      "Commerce": 5,
+      "Freedom": 6,
+      "Honor": 8,
+      "Liberty": 7,
+      "Order": 6,
+      "Patronage": 6,
+      "Piety": 5,
+      "Rationalism": 7,
+      "Tradition": 6
+    },
+    "production": 7,
+    "science": 8
+  },
+  {
+    "aggressive": 7,
+    "civilopediaText": [
+      {
+        "text": "Gjergj Kastrioti Skanderbeg was a 15th-century Albanian lord who defended his homeland against the Ottoman Empire for more than two decades."
+      }
+    ],
+    "commerce": 4,
+    "culture": 6,
+    "declareWar": 6,
+    "diplomacy": 8,
+    "expansion": 6,
+    "faith": 8,
+    "food": 5,
+    "gold": 4,
+    "happiness": 5,
+    "loyal": 10,
+    "military": 9,
+    "name": "Skanderbeg",
+    "priorities": {
+      "Autocracy": 6,
+      "Commerce": 3,
+      "Freedom": 8,
+      "Honor": 9,
+      "Liberty": 4,
+      "Order": 4,
+      "Patronage": 7,
+      "Piety": 8,
+      "Rationalism": 4,
+      "Tradition": 7
+    },
+    "production": 6,
+    "science": 4
+  },
+  {
+    "aggressive": 3,
+    "civilopediaText": [
+      {
+        "text": "Lorenzo de' Medici, known as Lorenzo the Magnificent, was a magnate, diplomat, politician and patron of scholars, artists and poets. He is perhaps best known for his contribution to the art world by sponsoring artists such as Botticelli and Michelangelo."
+      }
+    ],
+    "commerce": 9,
+    "culture": 10,
+    "declareWar": 3,
+    "diplomacy": 9,
+    "expansion": 5,
+    "faith": 6,
+    "food": 6,
+    "gold": 9,
+    "happiness": 7,
+    "loyal": 6,
+    "military": 4,
+    "name": "Lorenzo de' Medici",
+    "priorities": {
+      "Autocracy": 2,
+      "Commerce": 8,
+      "Freedom": 7,
+      "Honor": 3,
+      "Liberty": 6,
+      "Order": 3,
+      "Patronage": 9,
+      "Piety": 5,
+      "Rationalism": 7,
+      "Tradition": 8
+    },
+    "production": 5,
+    "science": 7
+  },
+  {
+    "aggressive": 4,
+    "civilopediaText": [
+      {
+        "text": "Charles III of Spain was King of Naples and Sicily, where he was known as Charles VII and Charles V. He was an enlightened despot and an efficient administrator who revived the economy and built wonderful monuments."
+      }
+    ],
+    "commerce": 7,
+    "culture": 9,
+    "declareWar": 4,
+    "diplomacy": 7,
+    "expansion": 6,
+    "faith": 6,
+    "food": 6,
+    "gold": 7,
+    "happiness": 8,
+    "loyal": 7,
+    "military": 5,
+    "name": "Charles III",
+    "priorities": {
+      "Autocracy": 3,
+      "Commerce": 7,
+      "Freedom": 6,
+      "Honor": 5,
+      "Liberty": 6,
+      "Order": 4,
+      "Patronage": 8,
+      "Piety": 6,
+      "Rationalism": 7,
+      "Tradition": 8
+    },
+    "production": 8,
+    "science": 6
+  }
+]
