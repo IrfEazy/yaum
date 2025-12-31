@@ -65,5 +65,22 @@
     "uniqueTo": "Kingdom of Naples",
     "unitType": "Ranged Water",
     "upgradesTo": "Battleship"
+  },
+  {
+    "attackSound": "shipCannonVolley",
+    "cost": 185,
+    "movement": 5,
+    "name": "Great Galleass",
+    "obsoleteTech": "Electronics",
+    "range": 2,
+    "rangedStrength": 32,
+    "replaces": "Frigate",
+    "requiredResource": "Iron",
+    "requiredTech": "Navigation",
+    "strength": 30,
+    "uniques": ["[+10]% Strength <when defending>", "[-1] Range"],
+    "uniqueTo": "Republic of Venice",
+    "unitType": "Ranged Water",
+    "upgradesTo": "Battleship"
   }
 ]

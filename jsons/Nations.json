@@ -237,8 +237,67 @@
     "tradeRequest": "A mutually beneficial arrangement.",
     "uniqueName": "Enlightenment of the South",
     "uniques": [
-      "[+20]% Production when constructing [Cultural] buildings [in all cities]",
-      "[+1 Culture] from [Cultural] buildings"
+      "[+20]% Production when constructing [Culture] buildings [in all cities]",
+      "[+1 Culture] from every [Culture]"
+    ]
+  },
+  {
+    "adjective": ["Venetian"],
+    "attacked": "You dare attack the Serene Republic?",
+    "cities": [
+      "Venice",
+      "Verona",
+      "Padua",
+      "Treviso",
+      "Zara",
+      "Split",
+      "Ragusa",
+      "Crete",
+      "Nicosia",
+      "Famagusta",
+      "Chioggia",
+      "Murano",
+      "Burano",
+      "Torcello",
+      "Lido",
+      "Mestre",
+      "Rovigo",
+      "Belluno",
+      "Feltre",
+      "Bassano"
+    ],
+    "declaringWar": "Your actions disrupt our trade. This cannot stand.",
+    "defeated": "The waters rise... Venice falls...",
+    "favoredReligion": "Christianity",
+    "hateHello": "Make it quick.",
+    "innerColor": [255, 215, 0],
+    "introduction": "I am Enrico Dandolo, Doge of Venice. Our ships sail every sea, and our gold builds empires. Do you seek profit or war?",
+    "leaderName": "Enrico Dandolo",
+    "name": "Republic of Venice",
+    "neutralHello": "Greetings, merchant.",
+    "outerColor": [139, 0, 0],
+    "personality": "Enrico Dandolo",
+    "preferredVictoryType": "Diplomatic",
+    "spyNames": [
+      "Casanova",
+      "Marco Polo",
+      "Vivaldi",
+      "Goldoni",
+      "Canaletto",
+      "Titian",
+      "Tintoretto",
+      "Veronese",
+      "Palladio",
+      "Bellini"
+    ],
+    "startBias": ["Coast"],
+    "startIntroPart1": "Doge Enrico Dandolo, blind visionary of the Serene Republic! Under your guidance, Venice has become the mistress of the Mediterranean, diverting crusades and toppling empires to secure its trade dominance.",
+    "startIntroPart2": "The Arsenal works day and night to equip your fleets. Will you navigate the treacherous currents of diplomacy and commerce to make Venice the wealthiest nation on earth?",
+    "tradeRequest": "A contract for your signature.",
+    "uniqueName": "Serenissima",
+    "uniques": [
+      "[+2 Gold] from [Coast] tiles [in all cities]",
+      "[Gold] cost of purchasing items in cities [-25]%"
     ]
   }
 ]

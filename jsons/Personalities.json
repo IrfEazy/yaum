@@ -134,5 +134,39 @@
     },
     "production": 8,
     "science": 6
+  },
+  {
+    "aggressive": 5,
+    "civilopediaText": [
+      {
+        "text": "Enrico Dandolo was the 41st Doge of Venice. Remembered for his blindness, longevity, and shrewdness, he led the Fourth Crusade that sacked Constantinople, vastly increasing Venetian power."
+      }
+    ],
+    "commerce": 9,
+    "culture": 6,
+    "declareWar": 5,
+    "diplomacy": 8,
+    "expansion": 6,
+    "faith": 5,
+    "food": 5,
+    "gold": 9,
+    "happiness": 6,
+    "loyal": 7,
+    "military": 6,
+    "name": "Enrico Dandolo",
+    "priorities": {
+      "Autocracy": 4,
+      "Commerce": 9,
+      "Freedom": 7,
+      "Honor": 5,
+      "Liberty": 6,
+      "Order": 3,
+      "Patronage": 9,
+      "Piety": 5,
+      "Rationalism": 7,
+      "Tradition": 6
+    },
+    "production": 6,
+    "science": 6
   }
 ]
