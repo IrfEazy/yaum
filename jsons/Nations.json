@@ -299,5 +299,64 @@
       "[+2 Gold] from [Coast] tiles [in all cities]",
       "[Gold] cost of purchasing items in cities [-25]%"
     ]
+  },
+  {
+    "adjective": ["Ottoman"],
+    "attacked": "You dare disturb the Pax Ottomana?",
+    "cities": [
+      "Istanbul",
+      "Edirne",
+      "Bursa",
+      "Izmir",
+      "Konya",
+      "Adana",
+      "Gaziantep",
+      "Antalya",
+      "Kayseri",
+      "Mersin",
+      "Eskişehir",
+      "Diyarbakır",
+      "Samsun",
+      "Denizli",
+      "Şanlıurfa",
+      "Malatya",
+      "Kahramanmaraş",
+      "Erzurum",
+      "Van",
+      "Trabzon"
+    ],
+    "declaringWar": "The laws of the world clearly state that the strong rule. Submit.",
+    "defeated": "The Empire... fractures...",
+    "favoredReligion": "Islam",
+    "hateHello": "Speak quickly.",
+    "innerColor": [255, 215, 0],
+    "introduction": "I am Suleiman, the Lawgiver, Sultan of Sultans. My realm bridges East and West. Do you come to admire our justice or taste our steel?",
+    "leaderName": "Suleiman the Magnificent",
+    "name": "Ottoman Empire",
+    "neutralHello": "Greetings.",
+    "outerColor": [139, 0, 0],
+    "personality": "Suleiman the Magnificent",
+    "preferredVictoryType": "Domination",
+    "spyNames": [
+      "Ibrahim",
+      "Hürrem",
+      "Mimar Sinan",
+      "Piri Reis",
+      "Barbarossa",
+      "Rustem",
+      "Sokollu",
+      "Mihrimah",
+      "Ebussuud",
+      "Matrakci"
+    ],
+    "startBias": ["Plains"],
+    "startIntroPart1": "Sultan Suleiman, the Magnificent, the Lawgiver! Under your just rule, the Ottoman Empire has reached its zenith, controlling the gateway between Europe and Asia. Your legal codes protect the subjects, and your armies are the envy of the world.",
+    "startIntroPart2": "The Janissaries await your command, and the people thrive in your bathhouses. Will you expand the House of Osman to rule the entire world?",
+    "tradeRequest": "A fair proposal, consistent with our laws.",
+    "uniqueName": "Kanuni",
+    "uniques": [
+      "[+1 Happiness] from [Courthouse]",
+      "[-20]% maintenance costs <for [All] units>"
+    ]
   }
 ]

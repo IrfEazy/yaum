@@ -82,5 +82,22 @@
     "uniqueTo": "Republic of Venice",
     "unitType": "Ranged Water",
     "upgradesTo": "Battleship"
+  },
+  {
+    "attackSound": "shot",
+    "cost": 160,
+    "movement": 2,
+    "name": "Janissary",
+    "obsoleteTech": "Rifling",
+    "replaces": "Musketman",
+    "requiredTech": "Gunpowder",
+    "strength": 26,
+    "uniques": [
+      "[+15]% Strength <when defending>",
+      "Heals [25] damage if it kills a unit"
+    ],
+    "uniqueTo": "Ottoman Empire",
+    "unitType": "Gunpowder",
+    "upgradesTo": "Rifleman"
   }
 ]

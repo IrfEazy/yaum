@@ -57,5 +57,14 @@
       "[+1 Gold] from [Water] tiles [in this city]"
     ],
     "uniqueTo": "Republic of Venice"
+  },
+  {
+    "cost": 120,
+    "maintenance": 1,
+    "name": "Hammam",
+    "replaces": "Garden",
+    "requiredTech": "Theology",
+    "uniques": ["[+25]% Great Person generation [in this city]", "[+1 Happiness]"],
+    "uniqueTo": "Ottoman Empire"
   }
 ]

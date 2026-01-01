@@ -168,5 +168,39 @@
     },
     "production": 6,
     "science": 6
+  },
+  {
+    "aggressive": 7,
+    "civilopediaText": [
+      {
+        "text": "Suleiman I, known as the Magnificent in the West and Kanuni (the Lawgiver) in his realm, was the tenth and longest-reigning Sultan of the Ottoman Empire. He presided over the apex of the Empire's military, political, and economic power."
+      }
+    ],
+    "commerce": 6,
+    "culture": 8,
+    "declareWar": 6,
+    "diplomacy": 7,
+    "expansion": 8,
+    "faith": 6,
+    "food": 5,
+    "gold": 6,
+    "happiness": 6,
+    "loyal": 5,
+    "military": 8,
+    "name": "Suleiman the Magnificent",
+    "priorities": {
+      "Autocracy": 6,
+      "Commerce": 5,
+      "Freedom": 4,
+      "Honor": 8,
+      "Liberty": 6,
+      "Order": 8,
+      "Patronage": 5,
+      "Piety": 6,
+      "Rationalism": 6,
+      "Tradition": 7
+    },
+    "production": 6,
+    "science": 5
   }
 ]
